@@ -1,0 +1,4 @@
+com\poe\bogeyman\entity\VillagerDAO.class
+com\poe\bogeyman\api\VillagerApi.class
+com\poe\bogeyman\entity\Villager.class
+com\poe\bogeyman\entityemployement\Profession.class
